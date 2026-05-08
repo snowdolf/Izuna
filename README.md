@@ -17,7 +17,7 @@
 <!------------------------------------------------------------------------------------------------------------------------->
 
 ## 🖥️ 프로젝트 소개
-📍 <a href="https://teamsparta.notion.site/C08-IZUNA-bd150fd774fd49d4b4fcc3232abcc887" target="_blank">2D 횡스크롤 액션 게임</a>
+📍 <a href="https://youthful-skunk-484.notion.site/Izuna-15374fa61fe08017bfc1e836885fc574?source=copy_link" target="_blank">2D 횡스크롤 액션 게임</a>
 
 </br>
 
